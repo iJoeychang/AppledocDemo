@@ -1,0 +1,2 @@
+/Users/xu_hui/Library/Developer/Xcode/DerivedData/TestDoc-alrscqhpyauuhjdzhbruewjoslzn/Build/Products/Debug-iphonesimulator/TestDoc.app
+
